@@ -1,0 +1,25 @@
+body {
+    background-color: #e6d0a8	;
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{ 
+	text-align: center;
+}
+
+
+h1 {
+    font-size: 70px;
+    color: #c49a6c;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
